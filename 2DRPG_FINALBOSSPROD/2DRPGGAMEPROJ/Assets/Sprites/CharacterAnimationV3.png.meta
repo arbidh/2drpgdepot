@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 88a75dff02a284300b0d594bf6e93cd8
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: CharacterAnimationV3_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 768
+        width: 134
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CharacterAnimationV3_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 767
+        width: 137
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CharacterAnimationV3_2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 771
+        width: 140
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CharacterAnimationV3_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 575
+        width: 135
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CharacterAnimationV3_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 574
+        width: 136
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CharacterAnimationV3_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 384
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CharacterAnimationV3_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 192
+        width: 134
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CharacterAnimationV3_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 192
+        width: 136
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CharacterAnimationV3_8
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 193
+        width: 134
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

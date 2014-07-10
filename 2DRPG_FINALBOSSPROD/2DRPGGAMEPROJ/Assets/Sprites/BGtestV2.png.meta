@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 5bfcd529ece6e44c08eae9d6a970cb52
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: BGtestV2_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 954
+        width: 323
+        height: 216
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BGtestV2_1
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1010
+        width: 99
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BGtestV2_2
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 995
+        width: 151
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BGtestV2_3
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 931
+        width: 283
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BGtestV2_4
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 863
+        width: 358
+        height: 249
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BGtestV2_5
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 893
+        width: 309
+        height: 267
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BGtestV2_6
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 905
+        width: 305
+        height: 225
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BGtestV2_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 132
+        width: 553
+        height: 434
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BGtestV2_8
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 317
+        width: 137
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BGtestV2_9
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 512
+        width: 193
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BGtestV2_10
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 413
+        width: 522
+        height: 217
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BGtestV2_11
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 271
+        width: 494
+        height: 353
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BGtestV2_12
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 450
+        width: 492
+        height: 218
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BGtestV2_13
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 266
+        width: 450
+        height: 338
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BGtestV2_14
+      rect:
+        serializedVersion: 2
+        x: 3381
+        y: 369
+        width: 475
+        height: 261
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

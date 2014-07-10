@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 984ac6d83fd6f430a8694e24209a2604
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: EnemyAnimationV3_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 765
+        width: 104
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: EnemyAnimationV3_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 765
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: EnemyAnimationV3_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 765
+        width: 104
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: EnemyAnimationV3_3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 576
+        width: 103
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: EnemyAnimationV3_4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 575
+        width: 119
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: EnemyAnimationV3_5
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 575
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: EnemyAnimationV3_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 384
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: EnemyAnimationV3_7
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 383
+        width: 79
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: EnemyAnimationV3_8
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 388
+        width: 147
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
